@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.Student" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#5b39c6</item>
+        <!-- Customize the colorPrimaryDark attribute to set the status bar color -->
+        <item name="colorPrimaryDark">#f498ad</item>
+        <!-- Customize the colorAccent attribute to set the color of UI controls -->
+        <item name="colorAccent">#9acd32</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>
